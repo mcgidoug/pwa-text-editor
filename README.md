@@ -25,3 +25,7 @@ Run the following command in your terminal:
 - Javascript
 - NodeJS
 - ExpressJS
+
+## Deployment:
+
+[Heroku](https://pwa-text-editor-2022.herokuapp.com/)
