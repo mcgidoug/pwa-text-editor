@@ -28,4 +28,4 @@ Run the following command in your terminal:
 
 ## Deployment:
 
-Currently in production with: [Heroku](https://pwa-text-editor-2022.herokuapp.com/)
+[Heroku](https://pwa-text-editor-2022.herokuapp.com/)
